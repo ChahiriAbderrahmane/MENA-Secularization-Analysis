@@ -1,0 +1,8 @@
+pandas 
+pm4py 
+scikit-learn 
+matplotlib 
+seaborn
+xgboost 
+shap
+numpy==2.3.3

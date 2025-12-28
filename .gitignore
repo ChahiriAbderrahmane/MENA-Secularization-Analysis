@@ -1,0 +1,7 @@
+notebooks/*
+!notebooks/mining&Study.ipynb
+data/
+data_final/
+.env
+v1/
+columns.txt
