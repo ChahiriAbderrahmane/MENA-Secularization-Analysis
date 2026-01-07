@@ -6,3 +6,7 @@ seaborn
 xgboost 
 shap
 numpy==2.3.3
+kmodes
+factor-analyzer
+statsmodels 
+scipy
